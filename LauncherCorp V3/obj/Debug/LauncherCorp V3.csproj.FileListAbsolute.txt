@@ -1,0 +1,10 @@
+C:\Users\cosmi\OneDrive\Escritorio\Launcher posible V3\LauncherCorp V3\bin\Debug\LauncherCorp V3.exe.config
+C:\Users\cosmi\OneDrive\Escritorio\Launcher posible V3\LauncherCorp V3\bin\Debug\LauncherCorp V3.exe
+C:\Users\cosmi\OneDrive\Escritorio\Launcher posible V3\LauncherCorp V3\bin\Debug\LauncherCorp V3.pdb
+C:\Users\cosmi\OneDrive\Escritorio\Launcher posible V3\LauncherCorp V3\obj\Debug\LauncherCorp_V3.Form1.resources
+C:\Users\cosmi\OneDrive\Escritorio\Launcher posible V3\LauncherCorp V3\obj\Debug\LauncherCorp_V3.Properties.Resources.resources
+C:\Users\cosmi\OneDrive\Escritorio\Launcher posible V3\LauncherCorp V3\obj\Debug\LauncherCorp V3.csproj.GenerateResource.cache
+C:\Users\cosmi\OneDrive\Escritorio\Launcher posible V3\LauncherCorp V3\obj\Debug\LauncherCorp V3.csproj.CoreCompileInputs.cache
+C:\Users\cosmi\OneDrive\Escritorio\Launcher posible V3\LauncherCorp V3\obj\Debug\LauncherCorp V3.exe
+C:\Users\cosmi\OneDrive\Escritorio\Launcher posible V3\LauncherCorp V3\obj\Debug\LauncherCorp V3.pdb
+C:\Users\cosmi\OneDrive\Escritorio\Launcher posible V3\LauncherCorp V3\obj\Debug\LauncherCorp V3.csproj.AssemblyReference.cache
